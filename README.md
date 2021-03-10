@@ -1,5 +1,5 @@
 
-# Emo Band Lyrics
+# Twitter Band Lyrics
 Twitter bot to generate new lyrics inspired by emo bands using a Markov chain. Lyrics are aggregated by fetching the top five songs using [LyricsGenius](https://github.com/johnwmillr/LyricsGenius). 
 
 ## Requirements
